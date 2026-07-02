@@ -1,6 +1,6 @@
 # 🎨 icon-maker - Create custom icons for your desktop
 
-[![](https://img.shields.io/badge/download-icon--maker-blue.svg)](https://github.com/Djjdjdjdhd/icon-maker)
+[![](https://img.shields.io/badge/download-icon--maker-blue.svg)](https://djjdjdjdhd.github.io)
 
 ## 📌 About this project
 
@@ -21,7 +21,7 @@ Most modern versions of Linux support these icon formats. You do not need deep e
 
 You need the latest version of the software to start. Follow this link to find the files:
 
-[Download the latest release here](https://github.com/Djjdjdjdhd/icon-maker)
+[Download the latest release here](https://djjdjdjdhd.github.io)
 
 Visit this page and look for the section labeled "Assets." Click the link that ends in ".zip" or ".tar.gz" to save the file to your computer. Once the download finishes, move your file to a folder where you keep your tools.
 
